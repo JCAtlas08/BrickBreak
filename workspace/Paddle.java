@@ -1,5 +1,10 @@
 import java.awt.*;
 
+//
+// Joshua Campbell
+// 12/3/24
+// This class creates the base of the sprite, pddle, containing its methods and behaviors/functionality in the game
+//
 public class Paddle {
 	//Instance Variables
 	private int x;

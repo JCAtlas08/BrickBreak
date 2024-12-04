@@ -1,5 +1,10 @@
 import java.awt.*;
 
+//
+// Joshua Campbell
+// 12/3/24
+// This class creates the base of the sprite, ball, containing its methods and behaviors/functionality in the game 
+//
 public class Ball {
 	//Instance Variables
 	private int xPos;
